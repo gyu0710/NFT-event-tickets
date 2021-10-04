@@ -5,9 +5,10 @@ module.exports = function(deployer) {
   // define event parameters used for all tickets for a specific event
   let eventName = "MyConcert";
   let eventSymbol = "MC"
-  let eventStartDate = 1594095567;
+  let eventStartDate = 1645539170;
+  // let eventStartDate = 1594095567;
   let maxSupply = 100;
-  let initialPrice = 1;
+  let initialPrice = 0;
   let maxPriceMultiple = 2;
   let transferFee = 20;
 

@@ -6,7 +6,7 @@ contract('EventTicketSystem', function (accounts) {
     // initial params given to contructor
     const eventName = "MyConcert";
     const eventSymbol = "MC"
-    const eventStartDate = 1594095567;
+    const eventStartDate = 1645539170;
     const maxSupply = 100;
     const initialPrice = web3.utils.toWei(web3.utils.toBN(1));
     const maxPriceMultiple = 2;
